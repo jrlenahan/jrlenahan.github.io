@@ -100,6 +100,15 @@ a:hover,a:active,a:focus{
 section{
 	padding:10% 5%;
 	width:100%}
+
+.tab	{ position:fixed; 
+	top:2%; 
+	right:2%;
+	background-image: url("../tag.png"); 
+	width: 90px;
+	height: 90px;}
+
+
 .buttons{
 	list-style-type:none;
 	text-align:center}
